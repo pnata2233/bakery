@@ -172,7 +172,7 @@ ul {
 }
 .chef-card__photo {
   width: 140px;
-  border-radius: 2px 2px 2px 116px;
+  border-radius: 116px 116px 2px 2px;
   -webkit-box-shadow: -8px 8px 0 0 var(--color-primary-light),
     -8px 8px 0 2px var(--color-secondary-dark);
   box-shadow: -8px 8px 0 0 var(--color-primary-light),
