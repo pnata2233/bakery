@@ -200,7 +200,7 @@ ul {
 }
 .chef-card__text {
   font-size: 14px;
-  margin-bottom: 24px;
+  margin: 0px 0px 0px 20px;
 }
 .chef-card__text:last-child {
   margin-bottom: 0;
